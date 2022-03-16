@@ -35,6 +35,7 @@ namespace Create_Table_Project
         }
         static void Main(string[] args)
         {
+            new Program().CreateTable();
         }
     }
 }
